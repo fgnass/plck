@@ -1,0 +1,16 @@
+{
+  "name": "plck",
+  "version": "1.0.0",
+  "description": "Extract a property from a list of objects",
+  "keywords": [ "pluck" ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fgnass/plck.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Felix Gnass <fgnass@gmail.com>",
+  "license": "MIT"
+}
