@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/fgnass/plck.svg?branch=master)](https://travis-ci.org/fgnass/plck)
+
 ### Tiny utility to extract a property from a list of objects
 
 Example:
